@@ -19,22 +19,22 @@ Yo decidí trabajar con la API de **Dragon Ball** para practicar el consumo de d
 
 ## 🎯 Objetivos cumplidos
 
-✅ Página completamente estática.  
-✅ Consumo de API pública (`fetch`).  
-✅ Renderizado dinámico de personajes.  
-✅ Estilo moderno con `flexbox` y efectos 3D en CSS.  
-✅ Hero con datos reales de la API.  
-✅ Carrusel funcional con botones y scroll.  
-✅ Diseño responsive y colores acordes a la temática.
+- ✅ Página completamente estática  
+- ✅ Consumo de API pública (`fetch`)  
+- ✅ Renderizado dinámico de personajes  
+- ✅ Estilo moderno con `flexbox` y efectos 3D en CSS  
+- ✅ Hero con datos reales de la API  
+- ✅ Carrusel funcional con botones y scroll  
+- ✅ Diseño responsive y colores acordes a la temática  
 
 ---
 
 ## 🧠 Tecnologías utilizadas
 
-- **HTML5** (estructura semántica)
-- **CSS3** (flex, gradientes, animaciones y efectos hover)
-- **JavaScript** (fetch, DOM, eventos, render dinámico)
-- **API pública Dragon Ball**: [https://dragonball-api.com](https://dragonball-api.com)
+- **HTML5** (estructura semántica)  
+- **CSS3** (flex, gradientes, animaciones y efectos hover)  
+- **JavaScript** (fetch, DOM, eventos, render dinámico)  
+- **API pública Dragon Ball**: https://dragonball-api.com  
 
 ---
 
@@ -46,28 +46,30 @@ Solo debes clonar el repositorio y abrir el archivo `index.html` en tu navegador
 ```bash
 git clone https://github.com/Adrianfer4/Landin_page_DB.git
 cd landingPage
-Luego abre index.html en el navegador.
 ```
+
+Luego abre `index.html` en el navegador.
 
 ---
 
 ## 💡 Aprendizajes
 
-✅ Con este proyecto reforcé conceptos clave:
-✅ Cómo consumir APIs públicas con fetch.
-✅ Cómo renderizar contenido dinámico en el DOM.
-✅ Cómo usar flexbox para layouts modernos.
-✅ Cómo aplicar efectos visuales atractivos con solo CSS.
-✅ Cómo organizar el código para que sea fácil de entender.
+Con este proyecto reforcé conceptos clave:
+
+- ✅ Cómo consumir APIs públicas con fetch  
+- ✅ Cómo renderizar contenido dinámico en el DOM  
+- ✅ Cómo usar flexbox para layouts modernos  
+- ✅ Cómo aplicar efectos visuales atractivos con solo CSS  
+- ✅ Cómo organizar el código para que sea fácil de entender  
 
 ---
 
 ## 📬 Autor
 
-👤 Nestor Fernandez
-Bootcamp La Fábrica · Módulo 2
-💻 Desarrollo web frontend
-📌 Proyecto educativo
+👤 **Nestor Fernandez**  
+📌 Bootcamp *La Fábrica* · Módulo 2  
+💻 Desarrollo web frontend  
+📚 Proyecto educativo  
 
 ---
 
