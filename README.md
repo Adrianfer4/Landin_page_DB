@@ -48,19 +48,28 @@ git clone https://github.com/Adrianfer4/Landin_page_DB.git
 cd landingPage
 Luego abre index.html en el navegador.
 
-💡 Aprendizajes
-Con este proyecto reforcé conceptos clave:
-Cómo consumir APIs públicas con fetch.
-Cómo renderizar contenido dinámico en el DOM.
-Cómo usar flexbox para layouts modernos.
-Cómo aplicar efectos visuales atractivos con solo CSS.
-Cómo organizar el código para que sea fácil de entender.
+---
 
-📬 Autor
+## 💡 Aprendizajes
+
+✅ Con este proyecto reforcé conceptos clave:
+✅ Cómo consumir APIs públicas con fetch.
+✅ Cómo renderizar contenido dinámico en el DOM.
+✅ Cómo usar flexbox para layouts modernos.
+✅ Cómo aplicar efectos visuales atractivos con solo CSS.
+✅ Cómo organizar el código para que sea fácil de entender.
+
+---
+
+## 📬 Autor
+
 👤 Nestor Fernandez
 Bootcamp La Fábrica · Módulo 2
 💻 Desarrollo web frontend
 📌 Proyecto educativo
 
-📝 Licencia
+---
+
+## 📝 Licencia
+
 Este proyecto es de uso educativo y libre de reutilizar para fines de aprendizaje.
