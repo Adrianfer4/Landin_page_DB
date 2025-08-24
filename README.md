@@ -47,6 +47,7 @@ Solo debes clonar el repositorio y abrir el archivo `index.html` en tu navegador
 git clone https://github.com/Adrianfer4/Landin_page_DB.git
 cd landingPage
 Luego abre index.html en el navegador.
+```
 
 ---
 
